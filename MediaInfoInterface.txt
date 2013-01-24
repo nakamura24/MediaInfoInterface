@@ -1,0 +1,30 @@
+MediaInfoInterface - MediaInfoのインターフェス
+
+Copyright (c) 2012 M.Nakamura
+http://nakamura24.blog.fc2.com/
+
+このライブラリはMediaInfo.Dllが提供するMediaInfoDLL.csを
+使用してMediaInfo.Dllにアクセスするためのライブラリです
+
+使用許諾
+以下に定める条件に従い、本ソフトウェアおよび関連文書のファイル（以下「ソフトウェア」）の複製を取得するすべての人に対し、ソフトウェアの使用を無償で許可します。掲載、頒布についての制限はありません
+ソフトウェアは「現状のまま」で、明示であるか暗黙であるかを問わず、何らの保証もなく提供されます
+ここでいう保証とは、商品性、特定の目的への適合性、および権利非侵害についての保証も含みますが、それに限定されるものではありません
+作者または著作権者は、契約行為、不法行為、またはそれ以外であろうと、ソフトウェアに起因または関連し、あるいはソフトウェアの使用またはその他の扱いによって生じる請求、損害、その他の義務について一切の責任を負いません 
+
+更新履歴
+2012/04/13 Version 1.0.1.1 新規作成
+2012/04/26 Version 1.0.5.2 blu-ray規格チェックを修正
+2012/04/30 Version 1.0.6.3 バグ修正
+2012/06/02 Version 1.0.6.4 対象のフレームワークを.NET4から.NET4 Client Profileに変更
+2012/06/17 Version 1.0.8.5 blu-ray規格チェックを修正
+2012/06/26 Version 1.0.9.6 Video_Delayを取得するように変更
+2012/06/29 Version 1.0.10.7 MediaInfoDLL.csのバーションアップ
+
+--------------------------
+MediaInfo.Dll - http://mediainfo.sourceforge.net
+Copyright (c) 2002-2011 MediaArea.net SARL, Info@MediaArea.net
+
+This program is freeware (LGLPv3+).
+See License.html for more information.
+
